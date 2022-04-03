@@ -6,7 +6,7 @@ Interesting websites is a list of websites worth looking at. Some of the categor
 
 - [@rubennijhuis](https://www.github.com/rubennijhuis)
 
-## Wan to get on the list?
+## Want to get on the list?
 Open an issue stating what category you want to be in and what you want to showcase. Our team will look at your qualifications and set up a meeting.
 
 ## Developer portfolios
