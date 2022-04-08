@@ -18,3 +18,6 @@ Open an issue stating what category you want to be in and what you want to showc
 [Bruno Simon](https://bruno-simon.com/) - Creative developer
 
 ## Designer portfolios
+
+## Great Design
+[Auth0](https://auth0.com/) - Authentication SaaS
