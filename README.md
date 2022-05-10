@@ -21,5 +21,5 @@ Open an issue stating what category you want to be in and what you want to showc
 [Van Schneider](https://vanschneider.com/) - Designer portfolio
 
 ## Great Design
-[Auth0](https://auth0.com/) - Authentication SaaS
+[Auth0](https://auth0.com/) - Authentication SaaS  
 [Httpie](https://httpie.io/) - Http CLI  
