@@ -22,4 +22,4 @@ Open an issue stating what category you want to be in and what you want to showc
 
 ## Great Design
 [Auth0](https://auth0.com/) - Authentication SaaS
-[Httpie](https://httpie.io/) - Http CLI
+[Httpie](https://httpie.io/) - Http CLI  
