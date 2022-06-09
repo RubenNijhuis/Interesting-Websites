@@ -23,6 +23,6 @@ Open an issue stating what category you want to be in and what you want to showc
 ## Great Design
 [Auth0](https://auth0.com/) — Authentication SaaS  
 [Httpie](https://httpie.io/) — Http CLI  
-[Keybase](https://keybase.io/) — Secure messaging and file-sharing
-[Project Bang](https://www.project-bang.com/) — Creative Agency
-[Solar Weekend](https://solarweekend.com/) — Festival website
+[Keybase](https://keybase.io/) — Secure messaging and file-sharing  
+[Project Bang](https://www.project-bang.com/) — Creative Agency  
+[Solar Weekend](https://solarweekend.com/) — Festival website  
