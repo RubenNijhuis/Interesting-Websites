@@ -26,3 +26,4 @@ Open an issue stating what category you want to be in and what you want to showc
 [Keybase](https://keybase.io/) — Secure messaging and file-sharing  
 [Project Bang](https://www.project-bang.com/) — Creative Agency  
 [Solar Weekend](https://solarweekend.com/) — Festival website  
+[Carbon Ventures](https://www.carbonventures.vc/)  — Venture Capital  
